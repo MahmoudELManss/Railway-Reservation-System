@@ -1,0 +1,18 @@
+id	price	firstclass	secondclass	city
+010	12	20	15		Mansoura
+020	15	20	15		Alexandria
+030	5	20	15		Shubra Al Khaimah
+040	12	20	15		Qalioub
+050	6	20	15		Tukh
+060	7	20	15		Banha
+070	9	20	15		Tanta
+080	20	20	15		Assiut
+090	15	20	15		Ismailia
+	
+
+
+
+
+
+
+	

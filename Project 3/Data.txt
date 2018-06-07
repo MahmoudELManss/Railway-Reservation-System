@@ -1,0 +1,6 @@
+sdsfd	gdf	Cairo(Ramses)	Qalioub	5000	4	6:10ص	Second_Class	63	One_Way	2017 ,أغسطس 27
+gdf	fghfg	Cairo(Ramses)	Alexandria	1200	6	6:40ص	First_Class	110	One_Way	2017 ,أغسطس 27
+fgdfg	fdgdf	Cairo(Ramses)	Alexandria	1200	7	7:15ص	Second_Class	120	One_Way	2017 ,أغسطس 27
+fdsdf	dgfd	Cairo(Ramses)	Shubra Al Khaimah	1200	5	6:10ص	First_Class	125	One_Way	2017 ,أغسطس 27
+dgfd	ghfhg	Cairo(Ramses)	Alexandria	1200	5	6:10ص	Second_Class	300	Round_Trip	2017 ,أغسطس 27
+hgfhg	fghfgh	Cairo(Ramses)	Alexandria	1200	6	3:00م	Second_Class	360	Round_Trip	2017 ,أغسطس 28
